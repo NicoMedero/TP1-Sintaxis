@@ -1,0 +1,1 @@
+<entero><Id><;><entero><Id><;><Id><=><Const><;><Id><=><Const><;><Id><<><Id><;><logica><Id><=><FALSO><;><Si><Id><<=><Id><entonces><{><Id><=><VERDADERO><}><;>
