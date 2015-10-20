@@ -37,7 +37,6 @@ public class Main {
 	String b1="";
 	String texto="";
 	
-	//Cambiando Test
 	//DA PROGRAM (TP1)
 	while (texto!=null)
 	{
