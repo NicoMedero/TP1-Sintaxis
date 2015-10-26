@@ -37,8 +37,7 @@ public class Main {
 	String b1="";
 	String texto="";
 	
-	//Probando un branch con git shell
-	//DA PROGRAM (TP1)
+	
 	while (texto!=null)
 	{
 		texto=buffer.readLine();
