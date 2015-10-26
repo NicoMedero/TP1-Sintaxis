@@ -1,0 +1,3 @@
+hay que eliminar la recursividad izquierda de las producciones.
+
+utilizar la cadena de tokens como nuevos Terminales.
