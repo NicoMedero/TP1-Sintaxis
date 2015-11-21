@@ -1,7 +1,5 @@
-entero x;
-entero y;
 x=2;
 y=3;
-x<y;
-logica b=FALSO;
-Si x<=y entonces {b=VERDADERO};
+z=4;
+
+Para x desde y hasta z {x=y+1;}

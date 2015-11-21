@@ -1,1 +1,1 @@
-<entero><Id><;><entero><Id><;><Id><=><Const><;><Id><=><Const><;><Id><<><Id><;><logica><Id><=><FALSO><;><Si><Id><<=><Id><entonces><{><Id><=><VERDADERO><}><;>
+<Id><=><Const><;><Id><=><Const><;><Id><=><Const><;><Para><Id><desde><Id><hasta><Id><{><Id><=><Id><+><Const><;><}>$
